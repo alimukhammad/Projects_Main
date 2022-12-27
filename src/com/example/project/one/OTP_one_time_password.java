@@ -5,8 +5,8 @@ import java.util.Random;
 public class OTP_one_time_password {
     public static void main(String[] args){
         //Length of your password as I have choose
-//        here to be 8
-        int length = 10;
+//        here to be 10
+        int length = 15;
         System.out.println(password(length));
     }
 
